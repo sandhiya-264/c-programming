@@ -11,8 +11,6 @@ interview-oriented coding problems for embedded systems preparation.
 - Arrays
 - Strings
 - Pointers
-- Bit Manipulation
-- Interview Programming Problems
 
 ## Interview Programs
 
@@ -24,7 +22,6 @@ interview-oriented coding problems for embedded systems preparation.
 - String Reverse
 - String Palindrome
 - Swap Using Pointers
-- Set, Clear and Toggle a Bit
 - Count Number of 1s in a Number
 
 ## Purpose
